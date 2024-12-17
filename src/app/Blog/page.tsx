@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
 import { IoIosArrowForward } from "react-icons/io";
-import { Poppins } from 'next/font/google';
 
 const page = () => {
   return (
